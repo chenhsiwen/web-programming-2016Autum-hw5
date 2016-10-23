@@ -4,7 +4,7 @@ class Countdisplay extends Component {
     const { count } = this.props;
     return (
       		<div>
-        		<strong>item: {count}</strong>
+        		item: {count}
       		</div>
     	);
   	}
