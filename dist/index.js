@@ -28,12 +28,9 @@ var Countdisplay = function (_Component) {
       return React.createElement(
         "div",
         null,
-        React.createElement(
-          "strong",
-          null,
-          "item: ",
-          count
-        )
+        "item: ",
+        count
+        
       );
     }
   }]);
