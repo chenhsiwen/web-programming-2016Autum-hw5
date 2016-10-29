@@ -6,10 +6,8 @@
 <p>安裝模組</p>
 <pre><code>npm instal</code></pre>
 
-<p>編譯 JSX</p>
-<pre><code> npm run build:watch </code></pre>
-<p>或者</p>
-<pre><code>npm run build</code></pre>
+<p>編譯 webpackage</p>
+<pre><code> npm run build </code></pre>
 
 <p>執行</p>
 <pre><code>npm start</code></pre>
